@@ -17,5 +17,5 @@
 
 ##加入组织
 
-有同样想法？或者想出一份力，欢迎联系我：caowenpeng1990@126.com
+有同样想法？或者想出一份力，欢迎联系我：caowenpeng1990@126.com  或者直接pull request
 
